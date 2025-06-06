@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ### 3. Chạy chương trình
 Chạy file `main.py` bằng lệnh:
 ```bash
-python src/main.py
+streamlit run src/main.py
 ```
 
 ### 4. Lưu ý
